@@ -1,0 +1,45 @@
+/*CSS Stylesheet*/
+
+/** {border: 1px solid black;}*/
+
+body {
+    margin: 0;
+
+}
+img {
+    max-width: 100%;
+
+}
+
+.two.columns{
+    margin:0%;
+}
+
+#mini{
+    width: 15.3333333333%;
+}
+
+#wine{
+    width: 10%;
+}
+
+.rowTwo{
+    margin-left: 0%;
+/*    margin-right:0%;*/
+    
+}
+
+.one-third.column{
+    margin: 0%;
+}
+
+#middle{
+/*    height:298.667px;*/
+    width:38.66666%;
+}
+
+    
+@media (max-width: 550px) {
+#middle{
+    width:70.7%;
+}
